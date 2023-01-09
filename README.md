@@ -1,6 +1,6 @@
 ### Hi 👋
 ### I'm Minami😊
-🌱 I’m currently learning web design, for example HTML, CSS , and JavaScript.
+🌱 I’m currently learning about web design. For example HTML, CSS , and JavaScript.
 
 <!--
 **minamism/minamism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
